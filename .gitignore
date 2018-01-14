@@ -1,0 +1,4 @@
+log/ip_logger.log
+tmp/current_ip
+Gemfile.lock
+.env
